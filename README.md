@@ -54,6 +54,7 @@ Step 5: Activity Workflow
 		ddos
 
 Log Monitoring & Mitigation
+
 	1. Check logs
 	2. Stop SSH control services
 	3. Verify that "Brute force login attempt" is removed from Active Threats
@@ -69,6 +70,7 @@ System should display:
 Start HTTP services again to continue operations
 
 Step 6: Quiz
+
 	Navigate to the quiz section
 	Target score: 35 points
 
@@ -81,12 +83,15 @@ Step 7: Export Logs
 		vm_activity_log.txt
 
 
-[Submission Guidelines]
+Submission Guidelines
 
 Choose one of the following:
 
 Option 1 (Recommended)
+
 	Upload your vm_activity_log.txt to your GitHub repository
 	Add xen0byt3 as a collaborator
+	
 Option 2 (Most Recommended)
+
 	Create a Pull Request containing your vm_activity_log.txt
