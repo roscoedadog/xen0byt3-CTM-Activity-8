@@ -2,6 +2,7 @@ AdoVM Cyber Threat Monitoring Simulation Lab
 
 
 Overview
+
 This activity allows learners to simulate real-world cyber threats and practice basic system administration and security response using the AdoVM CTM Simulator.
 
 You will configure a virtual environment, simulate attacks, analyze logs, and apply mitigation techniques.
