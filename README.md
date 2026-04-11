@@ -24,9 +24,9 @@ Step 3: System Setup
 		sudo apt install [app_name]
 
 Authentication Details
-	Username: admin
-	Password: admin
-	Root account: No password
+		Username: admin
+		Password: admin
+		Root account: No password
 
 Step 4: Using the AdoVM CTM Simulator
 
