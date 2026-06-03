@@ -1,0 +1,14 @@
+[2026-06-03 11:15:46] Hostname changed to roscoedadog
+[2026-06-03 11:27:25] Hostname changed to roscoedadog
+[2026-06-03 11:27:35] IP address set to 10.0.0.1
+[2026-06-03 11:28:15] Attack succeeded: Penetration attempt
+[2026-06-03 11:28:24] Attack succeeded: Port scan detected
+[2026-06-03 11:28:31] Attack succeeded: Brute force login attempt
+[2026-06-03 11:28:40] Attack succeeded: Malware upload attempt on FTP
+[2026-06-03 11:28:44] Attack succeeded: DDoS on HTTP service
+[2026-06-03 11:29:34] ssh service stopped
+[2026-06-03 11:30:07] http service stopped
+[2026-06-03 11:30:26] ftp service stopped
+[2026-06-03 11:30:46] Firewall active
+[2026-06-03 11:31:20] http service started
+[2026-06-03 11:31:43] Quiz mode completed with score: 35
